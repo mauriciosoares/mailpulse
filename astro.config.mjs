@@ -7,5 +7,7 @@ import react from "@astrojs/react";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [tailwind(), sitemap(), alpinejs(), react()]
+  integrations: [tailwind(), sitemap(), alpinejs(), react()],
+  site: "https://mauriciosoares.github.io",
+  base: "/mailpulse",
 });
