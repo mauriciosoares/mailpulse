@@ -1,0 +1,41 @@
+{
+  "name": "mailpulse",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "devDependencies": {
+    "@astrojs/tailwind": "^5.0.0",
+    "@tailwindcss/forms": "^0.5.4",
+    "@tailwindcss/typography": "^0.5.9",
+    "astro": "^3.0.2",
+    "prettier-plugin-tailwindcss": "^0.5.3"
+  },
+  "dependencies": {
+    "@astrojs/alpinejs": "^0.3.0",
+    "@astrojs/prism": "^3.0.0",
+    "@astrojs/react": "^3.0.0",
+    "@astrojs/sitemap": "3.0.0",
+    "@astrolib/seo": "^0.6.0",
+    "@types/alpinejs": "^3.7.2",
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "alpinejs": "^3.13.0",
+    "clsx": "^2.0.0",
+    "framer-motion": "^10.16.2",
+    "install": "^0.13.0",
+    "ncu": "^0.2.1",
+    "npm": "^9.8.1",
+    "npm-check-updates": "^16.10.18",
+    "prism-react-renderer": "^2.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.3"
+  }
+}
