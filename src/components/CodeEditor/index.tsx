@@ -6,6 +6,7 @@ import { text as nikeText, source as nikeSource } from "./nike";
 import { text as slackText, source as slackSource } from "./slack";
 import { Highlight } from "prism-react-renderer";
 import clsx from "clsx";
+import arrow from "./email-arrow-back.png?url";
 
 const emails = {
   dropbox: {
@@ -135,7 +136,7 @@ export default function CodeEditor() {
                   <div className="p-4 flex flex-col gap-3 border-b">
                     <div className="text-xl flex items-center gap-2">
                       <button onClick={() => setPreviewScreen("email")}>
-                        <img src="/email-arrow-back.png" width="20" />
+                        <img src={arrow} width="20" />
                       </button>
                       <span>{emails[previewScreen]?.title}</span>
                       <img src="/important-label.png" width="20" />
