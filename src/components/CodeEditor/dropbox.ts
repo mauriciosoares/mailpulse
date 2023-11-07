@@ -1,3 +1,5 @@
+console.log(import.meta.env.BASE_URL);
+
 export const source = `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
 <html lang="en">
@@ -7,7 +9,7 @@ export const source = `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional
   <body style="background-color:#f6f9fc;padding:10px 0">
     <table align="center" role="presentation" cellSpacing="0" cellPadding="0" border="0" width="100%" style="max-width:37.5em;background-color:#ffffff;border:1px solid #f0f0f0;padding:45px">
       <tr style="width:100%">
-        <td><img alt="Dropbox" src="/email-brands/dropbox.png" width="40" height="33" style="display:block;outline:none;border:none;text-decoration:none" />
+        <td><img alt="Dropbox" src="email-brands/dropbox.png" width="40" height="33" style="display:block;outline:none;border:none;text-decoration:none" />
           <table align="center" border="0" cellPadding="0" cellSpacing="0" role="presentation" width="100%">
             <tbody>
               <tr>

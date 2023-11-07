@@ -33,7 +33,7 @@ export const source = `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional
           <table style="padding:40px 74px;text-align:center" align="center" border="0" cellPadding="0" cellSpacing="0" role="presentation" width="100%">
             <tbody>
               <tr>
-                <td><img alt="Nike" src="/email-brands/nike.png" width="66" height="22" style="display:block;outline:none;border:none;text-decoration:none;margin:auto" />
+                <td><img alt="Nike" src="email-brands/nike.png" width="66" height="22" style="display:block;outline:none;border:none;text-decoration:none;margin:auto" />
                   <h1 style="font-size:32px;line-height:1.3;font-weight:700;text-align:center;letter-spacing:-1px">It&#x27;s On Its Way.</h1>
                   <p style="font-size:14px;line-height:2;margin:0;color:#747474;font-weight:500">You order&#x27;s is on its way. Use the link above to track its progress.</p>
                   <p style="font-size:14px;line-height:2;margin:0;color:#747474;font-weight:500;margin-top:24px">We've also charged your payment method for the cost of your order and will be removing any authorization holds. For payment details, please visit your Orders page on Nike.com or in the Nike app.</p>

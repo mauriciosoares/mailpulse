@@ -9,7 +9,7 @@ export const source = `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional
   <body style="background-color:#ffffff;color:#24292e;font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;">
     <table align="center" role="presentation" cellSpacing="0" cellPadding="0" border="0" width="100%" style="max-width:37.5em;width:480px;margin:0 auto;padding:20px 0 48px">
       <tr style="width:100%">
-        <td><img alt="Github" src="/email-brands/github.png" width="32" height="32" style="display:block;outline:none;border:none;text-decoration:none" />
+        <td><img alt="Github" src="email-brands/github.png" width="32" height="32" style="display:block;outline:none;border:none;text-decoration:none" />
           <p style="font-size:24px;line-height:1.25;margin:16px 0"><strong>@john</strong>, a personal access was created on your account.</p>
           <table style="padding:24px;border:solid 1px #dedede;border-radius:5px;text-align:center" align="center" border="0" cellPadding="0" cellSpacing="0" role="presentation" width="100%">
             <tbody>
