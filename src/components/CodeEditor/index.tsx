@@ -139,7 +139,7 @@ export default function CodeEditor() {
                         <img src={arrow} width="20" />
                       </button>
                       <span>{emails[previewScreen]?.title}</span>
-                      <img src="/important-label.png" width="20" />
+                      <img src="important-label.png" width="20" />
                       <span className="bg-slate-200 text-slate-800 px-1 py-0.5 inline-block rounded-md text-xs">
                         Inbox
                       </span>
@@ -241,7 +241,7 @@ function EmailRow({ onClick, sender, hasLabel = true, title, textPreview }) {
       onClick={onClick}
     >
       <span className="w-[30px]">
-        <img src="/important-label.png" width="20" />
+        <img src="important-label.png" width="20" />
       </span>
 
       <span className="w-[120px] text-left">{sender}</span>
